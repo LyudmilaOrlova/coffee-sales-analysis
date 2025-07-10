@@ -1,8 +1,8 @@
-# Coffee Sales Analysis
+# Coffee sales analysis
 
 This project analyzes coffee shop sales data and visualizes the results.
 
-## Project Description
+## Project description
 The dataset includes daily sales data for different products (Coffee, Tea, Pastries). The analysis includes:
 - Total sales by product
 - Total sales over time
@@ -16,7 +16,7 @@ The dataset includes daily sales data for different products (Coffee, Tea, Pastr
 - pandas
 - matplotlib
 
-## How to Run
+## How to run
 1. Install the required libraries:
    ```bash
    pip install pandas matplotlib
